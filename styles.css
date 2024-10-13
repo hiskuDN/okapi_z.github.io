@@ -9,6 +9,16 @@ header, footer {
     margin-bottom: 20px;
 }
 
+.welcome {
+    text-align: center;
+    margin: 20px auto;
+    max-width: 800px;
+    padding: 10px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
 .product-list {
     display: flex;
     flex-wrap: wrap;
